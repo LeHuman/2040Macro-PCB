@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=LINK_ME_AND_HIDE_DESIGNATOR|SchDesignator=LINK_ME_AND_HIDE_DESIGNATOR|FileName=2040Macro-PCB.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=2040Macro-PCB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=2040Macro-PCB.SchDoc|Designator=U_RP2040|SchDesignator=U_RP2040|FileName=RP2040.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=RP2040.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=2040Macro-PCB.SchDoc|Designator=U_USBC-DEV-2.0|SchDesignator=U_USBC-DEV-2.0|FileName=USBC-DEV-2.0.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=USBC-DEV-2.0.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RP2040.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Controller.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Matrix.SchDoc|SheetNumber=7
