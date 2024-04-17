@@ -1449,78 +1449,83 @@ Net6=NetName=-12V|NetColor=$00800020
 Net7=NetName=-1V1|NetColor=clBlue
 Net8=NetName=-1V8|NetColor=$00FF3B00
 Net9=NetName=-3V3|NetColor=$00FF8000
-Net10=NetName=-5V|NetColor=$00FF0080
-Net11=NetName=CLK|NetColor=$00FF6EFF
-Net12=NetName=Communication Line|NetColor=clAqua
-Net13=NetName=Communication Line Sensitive|NetColor=$0090FF00
-Net14=NetName=CR_XO|NetColor=$00FF6EFF
-Net15=NetName=CS|NetColor=$00FF6EFF
-Net16=NetName=G|NetColor=clLime
-Net17=NetName=GND|NetColor=$00087508
-Net18=NetName=GPIO0|NetColor=$00D9D9D9
-Net19=NetName=GPIO1|NetColor=$00D9D9D9
-Net20=NetName=GPIO10|NetColor=$00D9D9D9
-Net21=NetName=GPIO11|NetColor=$00D9D9D9
-Net22=NetName=GPIO12|NetColor=$00D9D9D9
-Net23=NetName=GPIO13|NetColor=$00D9D9D9
-Net24=NetName=GPIO14|NetColor=$00D9D9D9
-Net25=NetName=GPIO15|NetColor=$00D9D9D9
-Net26=NetName=GPIO16|NetColor=$00D9D9D9
-Net27=NetName=GPIO17|NetColor=$00D9D9D9
-Net28=NetName=GPIO18|NetColor=$00D9D9D9
-Net29=NetName=GPIO19|NetColor=$00D9D9D9
-Net30=NetName=GPIO2|NetColor=$00D9D9D9
-Net31=NetName=GPIO20|NetColor=$00D9D9D9
-Net32=NetName=GPIO21|NetColor=$00D9D9D9
-Net33=NetName=GPIO22|NetColor=$00D9D9D9
-Net34=NetName=GPIO23|NetColor=$00D9D9D9
-Net35=NetName=GPIO24|NetColor=$00D9D9D9
-Net36=NetName=GPIO25|NetColor=$00D9D9D9
-Net37=NetName=GPIO26|NetColor=$00434343
-Net38=NetName=GPIO27|NetColor=$00434343
-Net39=NetName=GPIO28|NetColor=$00434343
-Net40=NetName=GPIO29|NetColor=$00434343
-Net41=NetName=GPIO3|NetColor=$00D9D9D9
-Net42=NetName=GPIO4|NetColor=$00D9D9D9
-Net43=NetName=GPIO5|NetColor=$00D9D9D9
-Net44=NetName=GPIO6|NetColor=$00D9D9D9
-Net45=NetName=GPIO7|NetColor=$00D9D9D9
-Net46=NetName=GPIO8|NetColor=$00D9D9D9
-Net47=NetName=GPIO9|NetColor=$00D9D9D9
-Net48=NetName=High Priority General|NetColor=$00666666
-Net49=NetName=IO0|NetColor=$00FF6EFF
-Net50=NetName=IO1|NetColor=$00FF6EFF
-Net51=NetName=IO2|NetColor=$00FF6EFF
-Net52=NetName=IO3|NetColor=$00FF6EFF
-Net53=NetName=KEEP|NetColor=$00FF6E6E
-Net54=NetName=L|NetColor=$00202020
-Net55=NetName=Low Priority General|NetColor=$00D9D9D9
-Net56=NetName=MCU_SWCLK|NetColor=$006A00A1
-Net57=NetName=MCU_SWD|NetColor=$006A00A1
-Net58=NetName=MCU_USB_N|NetColor=$00FFFF6E
-Net59=NetName=MCU_USB_P|NetColor=$00FFFF6E
-Net60=NetName=MCU_XIN|NetColor=$00FF6EFF
-Net61=NetName=MCU_XOUT|NetColor=$00FF6EFF
-Net62=NetName=N|NetColor=$00D7C1B9
-Net63=NetName=NetP1_1|NetColor=$006A00A1
-Net64=NetName=NetP1_3|NetColor=$006A00A1
-Net65=NetName=PSU_MODE|NetColor=$00D9D9D9
-Net66=NetName=QSPI_CLK|NetColor=$00FF6EFF
-Net67=NetName=QSPI_CS|NetColor=$00FF6EFF
-Net68=NetName=QSPI_IO0|NetColor=$00FF6EFF
-Net69=NetName=QSPI_IO1|NetColor=$00FF6EFF
-Net70=NetName=QSPI_IO2|NetColor=$00FF6EFF
-Net71=NetName=QSPI_IO3|NetColor=$00FF6EFF
-Net72=NetName=SWCLK|NetColor=$006A00A1
-Net73=NetName=SWD|NetColor=$006A00A1
-Net74=NetName=System Critical|NetColor=$006A00A1
-Net75=NetName=System Critical / Sensitive|NetColor=$00FF6EFF
-Net76=NetName=System Low Priority / Debug|NetColor=$006A00A1
-Net77=NetName=USER_LED|NetColor=$00D9D9D9
-Net78=NetName=V_BUS|NetColor=$000C29DB
-Net79=NetName=VBUS|NetColor=$008000FF
-Net80=NetName=XIN|NetColor=$00FF6EFF
-Net81=NetName=XOUT|NetColor=$00FF6EFF
+Net10=NetName=3V3_LDO|NetColor=$0090FF00
+Net11=NetName=-5V|NetColor=$00FF0080
+Net12=NetName=ADC_AVDD|NetColor=$0090FF00
+Net13=NetName=ADC_VREF|NetColor=$0090FF00
+Net14=NetName=CLK|NetColor=$00FF6EFF
+Net15=NetName=Communication Line|NetColor=clAqua
+Net16=NetName=Communication Line Sensitive|NetColor=$0090FF00
+Net17=NetName=CR_XO|NetColor=$00FF6EFF
+Net18=NetName=CS|NetColor=$00FF6EFF
+Net19=NetName=G|NetColor=clLime
+Net20=NetName=GND|NetColor=$00087508
+Net21=NetName=GPIO0|NetColor=$00D9D9D9
+Net22=NetName=GPIO1|NetColor=$00D9D9D9
+Net23=NetName=GPIO10|NetColor=$00D9D9D9
+Net24=NetName=GPIO11|NetColor=$00D9D9D9
+Net25=NetName=GPIO12|NetColor=$00D9D9D9
+Net26=NetName=GPIO13|NetColor=$00D9D9D9
+Net27=NetName=GPIO14|NetColor=$00D9D9D9
+Net28=NetName=GPIO15|NetColor=$00D9D9D9
+Net29=NetName=GPIO16|NetColor=$00D9D9D9
+Net30=NetName=GPIO17|NetColor=$00D9D9D9
+Net31=NetName=GPIO18|NetColor=$00D9D9D9
+Net32=NetName=GPIO19|NetColor=$00D9D9D9
+Net33=NetName=GPIO2|NetColor=$00D9D9D9
+Net34=NetName=GPIO20|NetColor=$00D9D9D9
+Net35=NetName=GPIO21|NetColor=$00D9D9D9
+Net36=NetName=GPIO22|NetColor=$00D9D9D9
+Net37=NetName=GPIO23|NetColor=$00D9D9D9
+Net38=NetName=GPIO24|NetColor=$00D9D9D9
+Net39=NetName=GPIO25|NetColor=$00D9D9D9
+Net40=NetName=GPIO26|NetColor=$00434343
+Net41=NetName=GPIO27|NetColor=$00434343
+Net42=NetName=GPIO28|NetColor=$00434343
+Net43=NetName=GPIO29|NetColor=$00434343
+Net44=NetName=GPIO3|NetColor=$00D9D9D9
+Net45=NetName=GPIO4|NetColor=$00D9D9D9
+Net46=NetName=GPIO5|NetColor=$00D9D9D9
+Net47=NetName=GPIO6|NetColor=$00D9D9D9
+Net48=NetName=GPIO7|NetColor=$00D9D9D9
+Net49=NetName=GPIO8|NetColor=$00D9D9D9
+Net50=NetName=GPIO9|NetColor=$00D9D9D9
+Net51=NetName=High Priority General|NetColor=$00666666
+Net52=NetName=IO0|NetColor=$00FF6EFF
+Net53=NetName=IO1|NetColor=$00FF6EFF
+Net54=NetName=IO2|NetColor=$00FF6EFF
+Net55=NetName=IO3|NetColor=$00FF6EFF
+Net56=NetName=KEEP|NetColor=$00FF6E6E
+Net57=NetName=L|NetColor=$00202020
+Net58=NetName=Low Priority General|NetColor=$00D9D9D9
+Net59=NetName=MCU_ADC_VREF|NetColor=$0090FF00
+Net60=NetName=MCU_SWCLK|NetColor=$006A00A1
+Net61=NetName=MCU_SWD|NetColor=$006A00A1
+Net62=NetName=MCU_USB_N|NetColor=$00FFFF6E
+Net63=NetName=MCU_USB_P|NetColor=$00FFFF6E
+Net64=NetName=MCU_XIN|NetColor=$00FF6EFF
+Net65=NetName=MCU_XOUT|NetColor=$00FF6EFF
+Net66=NetName=N|NetColor=$00D7C1B9
+Net67=NetName=NetP1_1|NetColor=$006A00A1
+Net68=NetName=NetP1_3|NetColor=$006A00A1
+Net69=NetName=PSU_MODE|NetColor=$00D9D9D9
+Net70=NetName=QSPI_CLK|NetColor=$00FF6EFF
+Net71=NetName=QSPI_CS|NetColor=$00FF6EFF
+Net72=NetName=QSPI_IO0|NetColor=$00FF6EFF
+Net73=NetName=QSPI_IO1|NetColor=$00FF6EFF
+Net74=NetName=QSPI_IO2|NetColor=$00FF6EFF
+Net75=NetName=QSPI_IO3|NetColor=$00FF6EFF
+Net76=NetName=SWCLK|NetColor=$006A00A1
+Net77=NetName=SWD|NetColor=$006A00A1
+Net78=NetName=System Critical|NetColor=$006A00A1
+Net79=NetName=System Critical / Sensitive|NetColor=$00FF6EFF
+Net80=NetName=System Low Priority / Debug|NetColor=$006A00A1
+Net81=NetName=USER_LED|NetColor=$00D9D9D9
+Net82=NetName=V_BUS|NetColor=$000C29DB
+Net83=NetName=VBUS|NetColor=$008000FF
+Net84=NetName=VSYS|NetColor=$000D4090
+Net85=NetName=XIN|NetColor=$00FF6EFF
+Net86=NetName=XOUT|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
