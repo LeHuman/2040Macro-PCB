@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.0] - 2024-04-19
+
+### 🐛 Bug Fixes
+
+- :ambulance: Abide by board edge constraints
+
+### 📚 Documentation
+
+- :memo: Add CHANGELOG.md
+
 ## [0.3.1] - 2024-04-19
 
 ### 🚀 Features
