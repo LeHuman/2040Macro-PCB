@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.1] - 2024-04-20
+
+### 🐛 Bug Fixes
+
+- :bug: Minor changes to pad sizes and bump version
+
+### 📚 Documentation
+
+- :memo: Update CHANGELOG.md
+
 ## [0.4.0] - 2024-04-19
 
 ### 🐛 Bug Fixes
