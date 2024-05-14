@@ -51,6 +51,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Coloring.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LUMOKJSE
+
+[Document2]
 DocumentPath=Overview.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHMUVSPC
 
-[Document2]
+[Document3]
 DocumentPath=2040Macro.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBSPJPUF
 
-[Document3]
+[Document4]
 DocumentPath=USBC-DEV-2.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRNONFHP
 
-[Document4]
+[Document5]
 DocumentPath=2040Macro-PCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUGHVPFO
 
-[Document5]
+[Document6]
 DocumentPath=2040Macro.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTSYHNLV
 
-[Document7]
+[Document8]
 DocumentPath=LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAJOYMOL
 
-[Document8]
+[Document9]
 DocumentPath=SPIFlash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHZHMWFZ
 
-[Document9]
+[Document10]
 DocumentPath=RP2040.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KYNNMJWA
 
-[Document10]
+[Document11]
 DocumentPath=Crystal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFCKFBWP
 
-[Document11]
+[Document12]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTHJBQLW
 
-[Document12]
+[Document13]
 DocumentPath=SPIFlash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=USBC-DEV-2.0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=RP2040.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,23 +321,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document16]
-DocumentPath=Coloring.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LUMOKJSE
 
 [Document17]
 DocumentPath=Assembly.OutJob
@@ -374,32 +374,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Version
-Value=0.4.1
-
-[Parameter2]
-Name=Project
-Value=2040Macro
-
-[Parameter3]
-Name=LicenceYear
-Value=Copyright © 2024
-
-[Parameter4]
-Name=Licence
-Value=Licenced under CERN-OHL-P v2
-
-[Parameter5]
-Name=DrawnBy
-Value=IR
-
-[Parameter6]
 Name=Author
 Value=IR
 
-[Parameter7]
-Name=
-Value=
+[Parameter2]
+Name=DrawnBy
+Value=IR
+
+[Parameter3]
+Name=Licence
+Value=Licenced under CERN-OHL-P v2
+
+[Parameter4]
+Name=LicenceYear
+Value=Copyright © 2024
+
+[Parameter5]
+Name=Project
+Value=2040Macro
+
+[Parameter6]
+Name=Version
+Value=0.4.1
 
 [Configuration1]
 Name=Sources
