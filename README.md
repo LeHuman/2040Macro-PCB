@@ -34,13 +34,13 @@ This project is made in Altium, but will be converted, where possible, to a KiCa
 
 ### v1.6.0
 
-![2040Macro-v0.4.1](Images/PCB/2040Macro-v0.4.1.png) \
+![2040Macro-v0.4.1](images/PCB/2040Macro-v0.4.1.png) \
 *Version 1.6.0 of the 2040Macro PCB* \
 *Current capacity of inner layers are inadequate but manufacturing proved fine.*
 
 ### v1.2.0
 
-![2040Macro-v0.3.1](Images/PCB/2040Macro-v0.3.1.png) \
+![2040Macro-v0.3.1](images/PCB/2040Macro-v0.3.1.png) \
 *Version 0.3.1 of the 2040Macro PCB* \
 *Critical issue with inner layer trace cause subpar manufacturing, got too confident with trace widths.*
 
