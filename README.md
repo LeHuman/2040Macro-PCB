@@ -32,6 +32,8 @@ This project is made in Altium, but will be converted, where possible, to a KiCa
 
 ## PCB Gallery
 
+Get an up to date view of this project using the [Altium Viewer](https://lehuman.github.io/2040Macro-PCB/) hosted on GitHub pages.
+
 ### v1.6.0
 
 ![2040Macro-v0.4.1](images/PCB/2040Macro-v0.4.1.png) \
