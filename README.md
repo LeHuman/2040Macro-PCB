@@ -12,7 +12,7 @@
 ## Status
 
 **`Work In progress`**
-> *A routing rework is underway for reliability - May 2024*
+> *Waiting on PCBs - May 2024*
 
 ## About
 <!-- DESCRIPTION START -->
