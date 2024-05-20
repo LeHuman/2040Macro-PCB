@@ -44,7 +44,7 @@ Get an up to date view of this project using the [Altium Viewer](https://lehuman
 
 ![2040Macro-v0.3.1](images/PCB/2040Macro-v0.3.1.png) \
 *Version 0.3.1 of the 2040Macro PCB* \
-*Critical issue with inner layer trace cause subpar manufacturing, got too confident with trace widths.*
+*Critical issue with inner layer trace caused subpar manufacturing, got too confident with trace widths.*
 
 ## License
 
