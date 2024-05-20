@@ -34,13 +34,13 @@ This project is made in Altium, but will be converted, where possible, to a KiCa
 
 Get an up to date view of this project using the [Altium Viewer](https://lehuman.github.io/2040Macro-PCB/) hosted on GitHub pages.
 
-### v1.6.0
+### v0.4.1
 
 ![2040Macro-v0.4.1](images/PCB/2040Macro-v0.4.1.png) \
-*Version 1.6.0 of the 2040Macro PCB* \
+*Version 0.4.1 of the 2040Macro PCB* \
 *Current capacity of inner layers are inadequate but manufacturing proved fine.*
 
-### v1.2.0
+### v0.3.1
 
 ![2040Macro-v0.3.1](images/PCB/2040Macro-v0.3.1.png) \
 *Version 0.3.1 of the 2040Macro PCB* \
