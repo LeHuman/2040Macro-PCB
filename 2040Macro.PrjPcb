@@ -373,13 +373,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 2040Macro\Design Rule Check - 2040Macro.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Version
-Value=0.5.1
+Value=0.5.3
 
 [Parameter2]
 Name=Project
