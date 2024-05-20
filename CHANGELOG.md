@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5.3] - 2024-05-20
+
+### 📚 Documentation
+
+- 📝 Update CHANGELOG.md
+- :memo: Update LICENSE
+- :memo: Update Logo
+- :memo: Update README.md
+- :memo: Add images
+- :memo: Update README.md
+- :memo: Add viewer page
+- :memo: Wrong version listed, updated
+
+### ⚡ Performance
+
+- :zap: Current capacity increased for every GPIO
+
+### 🎨 Styling
+
+- :lipstick: Cleanup schematics, update annotations
+- :lipstick: Readd designators
+
+### ⚙️ Miscellaneous Tasks
+
+- :wrench: Update save state
+
+### Build
+
+- :building_construction: Update layer stackup
+
 ## [0.4.1] - 2024-04-20
 
 ### 🐛 Bug Fixes
