@@ -379,7 +379,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Version
-Value=0.5.0
+Value=0.5.1
 
 [Parameter2]
 Name=Project
